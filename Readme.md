@@ -7,6 +7,5 @@ This is a readme designed for use as part of an Arduino workshop, which in turn 
 Instructions for Use:
 
 1. Install the libraries folder as described
-
 2. Use the Source Code as Examples for your Project.
 	

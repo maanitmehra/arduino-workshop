@@ -1,6 +1,6 @@
 # Instructions for Arduino Workshop
 
-This is a readme designed for use as part of an Arduino workshop, which in turn is part of the [RIO-Columbia Sensing in the City Challenge] (http://columbia-riodesignchallenge.weebly.com/) 
+This is a readme designed for use as part of an Arduino workshop, which in turn is part of the [RIO-Columbia Sensing in the City Challenge](http://columbia-riodesignchallenge.weebly.com/) 
 
 
 Hardware Used:

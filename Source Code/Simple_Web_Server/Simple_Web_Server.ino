@@ -34,8 +34,8 @@ Adafruit_CC3000 cc3000 = Adafruit_CC3000(ADAFRUIT_CC3000_CS, ADAFRUIT_CC3000_IRQ
 aREST rest = aREST();
 
 // Define WiFi SSID and password
-#define WLAN_SSID       "KBHQ2"        // cannot be longer than 32 characters!
-#define WLAN_PASS       "99KM8HPM4NRZC6QF"
+#define WLAN_SSID       "YOURNETWORK"        // cannot be longer than 32 characters!
+#define WLAN_PASS       "YOURPASSWORD"
 // Security can be WLAN_SEC_UNSEC, WLAN_SEC_WEP, WLAN_SEC_WPA or WLAN_SEC_WPA2
 #define WLAN_SECURITY   WLAN_SEC_WPA2
 
